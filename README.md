@@ -33,12 +33,15 @@ This project showcases classic and modern **image processing techniques** using 
 
 ## 🧪 Sample Results
 
-| Technique            | Sample Output |
-|----------------------|----------------|
-| Noise Reduction      | ![Gaussian Blur](outputs/noise_reduction/sample_gaussian.jpg) |
-| Edge Detection       | ![Canny Edge](outputs/edge_detection/sample_canny.jpg) |
-| Contrast Enhancement | ![CLAHE](outputs/contrast_enhancement/sample_clahe.jpg) |
-| Frequency Filtering  | ![Low Pass](outputs/frequency_domain/sample_lowpass.jpg) |
+### 📂 Download Output Archives
+
+| Category              | ZIP File Link                                                                 |
+|-----------------------|-------------------------------------------------------------------------------|
+| Noise Reduction       | [Download](outputs/noise_reduction.zip)                                      |
+| Edge Detection        | [Download](outputs/edge_detection.zip)                                       |
+| Contrast Enhancement  | [Download](outputs/contrast_enhancement.zip)                                 |
+| Frequency Domain      | [Download](outputs/frequency_domain.zip)                                     |
+
 
 > *Note: Outputs are generated dynamically and only a few are included here for demonstration.*
 
