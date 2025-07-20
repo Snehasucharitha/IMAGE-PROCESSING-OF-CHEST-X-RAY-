@@ -31,7 +31,12 @@ This project showcases classic and modern **image processing techniques** using 
 
 ---
 
-## 🧪 Sample Results
+## 🧪 Sample Results : 
+
+ Open the jupyter notebook file to view all the processes and open the "outputs" zip file to view all the outputs
+
+<img width="1162" height="295" alt="image" src="https://github.com/user-attachments/assets/9b21f213-e0cf-4be9-8866-4654191eeb2e" />
+
 
 ### 📂 Download Output Archives
 
